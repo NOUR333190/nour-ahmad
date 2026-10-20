@@ -1,0 +1,8 @@
+{
+  "name": "Remix DesignForge AI",
+  "description": "منصة ذكية ومساحة عمل تدريبية متكاملة لمصممي الجرافيك مع محاكاة عملاء واقعية، نقد التصاميم، ومختبر الابتكار الإبداعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
